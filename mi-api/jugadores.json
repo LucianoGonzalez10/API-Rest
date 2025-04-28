@@ -1,0 +1,157 @@
+[
+    {
+      "id": 0,
+      "nombre": "Tomás Marchiori",
+      "camiseta": 1,
+      "Posicion": "Arquero",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 1,
+      "nombre": "Lautaro Rodríguez",
+      "camiseta": 12,
+      "Posicion": "Arquero",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 2,
+      "nombre": "Aaron Quirós",
+      "camiseta": 6,
+      "Posicion": "Defensor",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 3,
+      "nombre": "Elías Gómez",
+      "camiseta": 3,
+      "Posicion": "Defensor",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 4,
+      "nombre": "Diego Cavanagh",
+      "camiseta": 37,
+      "Posicion": "Defensor",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 5,
+      "nombre": "Valentín Gómez",
+      "camiseta": 31,
+      "Posicion": "Defensor",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 6,
+      "nombre": "Braian Silvero",
+      "camiseta": 40,
+      "Posicion": "Defensor",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 7,
+      "nombre": "Diego Fernández",
+      "camiseta": 34,
+      "Posicion": "Defensor",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 8,
+      "nombre": "Elías Cabrera Lagos",
+      "camiseta": 14,
+      "Posicion": "Mediocampista",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 9,
+      "nombre": "Tomás Roldán",
+      "camiseta": 19,
+      "Posicion": "Mediocampista",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 10,
+      "nombre": "Christian Ordóñez",
+      "camiseta": 32,
+      "Posicion": "Mediocampista",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 11,
+      "nombre": " Galván",
+      "camiseta": 8,
+      "Posicion": "Mediocampista",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 12,
+      "nombre": " Vázquez",
+      "camiseta": 33,
+      "Posicion": "Mediocampista",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 13,
+      "nombre": "Agustín Bouzat",
+      "camiseta": 26,
+      "Posicion": "Delantero",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 14,
+      "nombre": "Alvaro Montoro",
+      "camiseta": 10,
+      "Posicion": "Mediocampista",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 15,
+      "nombre": "Claudio Baeza",
+      "camiseta": 5,
+      "Posicion": "Mediocampista",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 16,
+      "nombre": "Imanol Machuca",
+      "camiseta": 39,
+      "Posicion": "Mediocampista",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 17,
+      "nombre": "Maher Carrizo",
+      "camiseta": 28,
+      "Posicion": "Delantero",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 18,
+      "nombre": "Mateo Pellegrini",
+      "camiseta": 11,
+      "Posicion": "Delantero",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 19,
+      "nombre": "Franciso Pizzini",
+      "camiseta": 20,
+      "Posicion": "Delantero",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 20,
+      "nombre": "Brian Romero",
+      "camiseta": 9,
+      "Posicion": "Delantero",
+      "Imagen": "media/..."
+    },
+    {
+      "id": 21,
+      "nombre": "Michael Santos",
+      "camiseta": 7,
+      "Posicion": "Delantero",
+      "Imagen": "media/..."
+    }
+  ]
+  
